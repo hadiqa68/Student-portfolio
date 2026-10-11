@@ -1,0 +1,29 @@
+.section{
+    border-radius: 10%;
+   background-color:  #FFF5E6;
+    border: 3px solid black;
+    width: 30%;
+    height: 450px;
+    background-image: url("./image/images\ \(1\).jpg");
+}
+.center{
+    width: 30%;
+    margin: 5%;
+}
+.family{
+    font-family: New Rocker;
+}
+.color{
+    background-color:#93CAED;
+    color:  #00008B;
+    border-radius: 30%;
+    border: 3px solid black;
+    height: 30px;
+}
+.colorr{
+    background-color: #afeecd;
+    color: #006400;
+    border-radius: 30%;
+    border: 3px solid #006400;
+    height: 30px;
+}
